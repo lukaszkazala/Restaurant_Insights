@@ -1,0 +1,41 @@
+This project is for restaurant to have all their financial information in one place.
+
+
+
+
+Solution of this project:
+    a) Help to know how many meals the restaurant sell.(day/moth/quarter/year)
+    b) To prepared order of stock. Create 
+        1) vegatables
+        2) fruits
+        3) meats
+        4) drinks
+    c) Information about how many your waiter get tables
+
+
+
+
+
+
+
+
+
+
+
+What I use to create this project:
+    - Python
+    - conect to API
+    - HTML to visulation it 
+     
+
+
+
+
+
+
+
+
+
+
+
+
