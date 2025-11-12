@@ -10,13 +10,14 @@ Solution of this project:
         2) fruits
         3) meats
         4) drinks
-    c) Information about how many your waiter get tables
-
-
-
-
-
-
+    c) Information about how many your waiter get tables.
+        1) how many to pay for waiters
+        2) what they must propose to client for drink, eat.
+    d) Income/profit
+        1) calculate your income and profit for day/month/year
+        2) add how much you must pay for course 
+    e)
+    f)
 
 
 
